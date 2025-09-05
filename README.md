@@ -62,7 +62,7 @@ Copy code
 ## 💾 Saving Best Model
 ```python
 import joblib
-joblib.dump(pipeline_lr, "models/logistic_regression_model.pkl")
+joblib.dump(pipeline_logistic,'logistic_regression_model.pkl')
 ✨ Author
 👤 Isha Negi
 
